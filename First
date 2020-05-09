@@ -96,4 +96,12 @@
       <description>Microsoft's .NET initiative is explored in 
       detail in this deep programmer's reference.</description>
    </book>
+      <book id="bk111">
+      <author>Geetha</author>
+      <title>Geetha</title>
+      <genre>Computer</genre>
+      <price>36.95</price>
+      <publish_date>2000-12-09</publish_date>
+      <description>Geetha</description>
+   </book>
 </catalog>
